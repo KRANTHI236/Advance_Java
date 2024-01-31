@@ -12,7 +12,7 @@ public class ProductInsert {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 
-			String dbUrl = "jdbc:oracle:thin:@//10.0.0.5:1521/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com";
+			String dbUrl = "jdbc:oracle:thin:@//localhost:1011/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com";
 			String dbun = "TEST_ALL";
 			String dbPwd = "test_all";
 
