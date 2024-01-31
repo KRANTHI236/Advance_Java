@@ -20,7 +20,7 @@ public class InsertingImage {
 
 			
 
-			String dburl = "jdbc:oracle:thin:@//10.0.0.5:1521/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com";
+			String dburl = "jdbc:oracle:thin:@//localhost:1591/rvpdb1.sub081409003601.rvtestvcn.oraclevcn.com";
 			String dbun = "TEST_ALL";
 			String dbpwd = "test_all";
 
